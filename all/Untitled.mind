@@ -1,1 +1,1 @@
-{"root":{"data":{"id":"d7sudoiwjmo0","created":1739604643233,"text":"input"},"children":[{"data":{"id":"d7suds4i3340","created":1739604651070,"text":"转换成向量"},"children":[]}]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
+{"root":{"data":{"id":"d7sudoiwjmo0","created":1739604643233,"text":"input"},"children":[{"data":{"id":"d7suds4i3340","created":1739604651070,"text":"通过embeddings转换成向量"},"children":[]}]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
